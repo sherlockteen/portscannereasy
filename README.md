@@ -1,4 +1,4 @@
-# portscannereasy
+# portscanner
 Simple python port scanner
 
 How to use:
